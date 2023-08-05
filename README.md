@@ -12,7 +12,7 @@ I adhere to a life motto 📝 (and with this, I bid adieu), which is,
 
 Indeed, mistakes have guided me to become the individual I am today.
 
-Thank you for reading.
+If you've made it this far, thank you for reading 🙌.
 
 Best regards,
 Gustavo Parra 🤘.
