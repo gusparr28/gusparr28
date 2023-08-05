@@ -10,9 +10,9 @@ I adhere to a life motto 📝 (and with this, I bid adieu), which is,
 
 ***"I would err a thousand times more if that were the cost of acquiring ten thousand new learnings."***
 
-Indeed, mistakes have guided me to become the individual I am today.
+Indeed, mistakes have guided me to become the individual I am today 📈🔝.
 
-If you've made it this far, thank you for reading 🙌.
+If you've made it this far, thank you for reading.
 
 Best regards,
 Gustavo Parra 🤘.
