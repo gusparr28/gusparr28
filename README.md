@@ -1,4 +1,4 @@
-**Greetings to all** 😄👋, 
+### Greetings to all 😄👋, 
 
 As you can discern, my commit count may not be as prolific. This, however, is not indicative of my inactive status as a programmer. Quite the contrary, I am actively harnessing my programming acumen to compose code for corporate projects 💼👨‍💼. These projects are hosted on platforms such as GitLab and BitBucket, serving as conduits to house their endeavors and reap financial gains. From these gains, I receive a minute (indeed, a truly diminutive, supremely minute, ultra-small) percentage, which aids in my sustenance.
 
