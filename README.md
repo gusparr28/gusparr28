@@ -4,7 +4,7 @@ As you can discern, my commit count may not be as prolific. This, however, is no
 
 Now that you understand the rationale behind the seemingly darker shade of my commit panel – akin to the mustache of Steve Harvey  – allow me to introduce myself: I am Gustavo Parra 🚀, a computer engineer with an ardor for backend application development. While I do not lay claim to the title of the world's preeminent programmer, nor do I acknowledge myself as the least proficient, I do consider myself steadfast and exacting in my programming pursuits 📌🧑‍💻, as well as in life in general. I am an individual in a perpetual state of education concerning novel technologies, stacks, frameworks, and languages. I hold an affection for clean, maintainable code, and I diligently labor to perpetuate these attributes throughout my work.
 
-Football, hamburgers, and animals hold my affections ⚽️🍔🐶. I aspire to become a music producer someday 🎧.
+Football, hamburgers, and animals hold my affections ⚽️🍔🐶.
 
 I adhere to a life motto 📝 (and with this, I bid adieu), which is,
 
