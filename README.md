@@ -1,18 +1,15 @@
-### Greetings to all 😄👋, 
+### Hello everyone! 😄👋
 
-As you can discern, my commit count may not be as prolific. This, however, is not indicative of my inactive status as a programmer. Quite the contrary, I am actively harnessing my programming acumen to compose code for corporate projects 💼👨‍💼. These projects are hosted on platforms such as GitLab and BitBucket, serving as conduits to house their endeavors and reap financial gains. From these gains, I receive a minute (indeed, a truly diminutive, supremely minute, ultra-small) percentage, which aids in my sustenance.
+So, you might notice that my commit count isn't through the roof. But don't worry, that doesn’t mean I’m not coding. In fact, I’m busy writing code for corporate projects. These projects live on platforms like GitLab and BitBucket, where companies do their thing and make money. I get a tiny (and I mean really tiny) piece of that pie, which helps me get by.
 
-Now that you understand the rationale behind the seemingly darker shade of my commit panel – akin to the mustache of Steve Harvey  – allow me to introduce myself: I am Gustavo Parra 🚀, a computer engineer with an ardor for backend application development. While I do not lay claim to the title of the world's preeminent programmer, nor do I acknowledge myself as the least proficient, I do consider myself steadfast and exacting in my programming pursuits 📌🧑‍💻, as well as in life in general. I am an individual in a perpetual state of education concerning novel technologies, stacks, frameworks, and languages. I hold an affection for clean, maintainable code, and I diligently labor to perpetuate these attributes throughout my work.
+Now that you know why my commit graph might look as dark as Steve Harvey’s mustache, let me introduce myself:
 
-Football, hamburgers, and animals hold my affections ⚽️🍔🐶.
+I’m Gustavo Parra, a computer engineer who’s passionate about backend development. I consider myself a persistent and detail-oriented person, both in programming and in life in general. I’m always learning about new technologies, stacks, frameworks, and languages. I hold a deep affection for clean, scalable and maintainable code and consistently strive to cultivate it in such a manner.
 
-I adhere to a life motto 📝 (and with this, I bid adieu), which is,
+Football and bass guitar as hobbies, and video games, series, and movies as entertainment.
 
-***"I would err a thousand times more if that were the cost of acquiring ten thousand new learnings."*** - Indeed, mistakes have guided me to become the individual I am today 📈🔝.
+If you made it this far, thanks for reading!
 
-If you've made it this far, thank you for reading.
+Best regards, Gustavo Parra 🤘
 
-Best regards,
-Gustavo Parra 🤘.
-
-**NOTE: My English is not quite this flawless. This was translated from Spanish to English using ChatGPT 3.5.**
+**P.S. My English isn’t usually this perfect. I used ChatGPT 3.5 to translate this from Spanish.**
