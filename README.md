@@ -10,6 +10,6 @@ Football and bass guitar as hobbies, and video games, series, and movies as ente
 
 If you made it this far, thanks for reading!
 
-Best regards, Gustavo Parra 🤘
+Best regards 🤘
 
 **P.S. My English isn’t usually this perfect. I used ChatGPT 3.5 to translate this from Spanish.**
