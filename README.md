@@ -8,7 +8,7 @@ I’m Gustavo Parra, a computer engineer who’s passionate about backend develo
 
 Football and bass guitar as hobbies, and video games, series, and movies as entertainment.
 
-If you made it this far, thanks for reading!
+If you made it this far, thanks for reading.
 
 Best regards.
 
