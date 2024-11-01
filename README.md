@@ -5,5 +5,3 @@ I'm a computer engineer with a passion for backend development. I consider mysel
 Football and bass guitar as hobbies, and video games, series, and movies as entertainment.
 
 Best regards.
-
-**P.S. I used ChatGPT 3.5 to translate this from Spanish.**
